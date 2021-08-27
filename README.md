@@ -10,7 +10,7 @@
 
 # Table of Content 
     
-     * [The Data Set](#the-data-set)
+     *[The Data Set](#the-data-set)
        * [Data Selection](#data-selection)
        * [Data Wrangling](#data-wrangling)
        * [Geographic Exceptions for COVID Cases](#geographic-exceptions-for-covid-cases)

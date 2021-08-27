@@ -10,7 +10,7 @@
 
 # Table of Content 
     
-     *[The Data Set](#the-data-set)
+     [The Data Set](#the-data-set) 
        * [Data Selection](#data-selection)
        * [Data Wrangling](#data-wrangling)
        * [Geographic Exceptions for COVID Cases](#geographic-exceptions-for-covid-cases)
@@ -25,7 +25,7 @@
   
    * COVID-19 cases for county level were obtained from the New York Times and GitHub database.
 
-      * State Level Varaiables include
+      * State Level Varaiables include:
        
          * Top 50 populated U.S. city
          * Top 50 walkable U.S. city
@@ -55,31 +55,31 @@
 
  ## Geographic Exceptions for COVID Cases
  
-  * Cases for 5 NYC counties are reported as just NYC.
-  * We changed the explanatory variables accordingly:
+   * Cases for 5 NYC counties are reported as just NYC.
+   * We changed the explanatory variables accordingly:
     
       * NYC households = sum households of 5 NYC counties
       * NYC population = sum population of 5 NYC counties
       * NYC population density = sum population of 5 NYC counties / sum area of 5 NYC counties
-      * 
-  * Cases for Kansas City, MO were not reported at county-level.
-  * Cases for Alameda County, CA include Berkeley and the Grand Princess cruise ship.
+ 
+   * Cases for Kansas City, MO were not reported at county-level.
+   * Cases for Alameda County, CA include Berkeley and the Grand Princess cruise ship.
 
 ## Exclusion Criteria
  
- * We removed 23 states that has less than 5000 total COVID-19 cases on 04/24/20. We removed counties with less than 5 COVID-19 cases. Thus, 77.3% (1540/1992) of    counties were included in the analysis.
+   * We removed 23 states that has less than 5000 total COVID-19 cases on 04/24/20. We removed counties with less than 5 COVID-19 cases. Thus, 77.3% (1540/1992) of        counties were included in the analysis.
 
 # Tools Used 
  
- * RStuido
+   * RStuido
 
 # Conclusion
 
- * The results from this exploratory data analysis show that greater number of households, population size, population density leads to greater COVID-19 cases and faster COVID-19 spread. Metro counties have greater COVID-19 cases and faster COVID-19 spread than Nonmetro counties. NY state and NY county have the greatest cases and fastest spread for COVID-19. Therefore, the number of households, population size, population density and county classification contributed to the enormous COVID-19 cases spread. As population density increases, social distancing can be difficult. This may have led CDC to update recommendation about wearing face masks in public places on April 13th.
+   * The results from this exploratory data analysis show that greater number of households, population size, population density leads to greater COVID-19 cases and faster COVID-19 spread. Metro counties have greater COVID-19 cases and faster COVID-19 spread than Nonmetro counties. NY state and NY county have the greatest cases and fastest spread for COVID-19. Therefore, the number of households, population size, population density and county classification contributed to the enormous COVID-19 cases spread. As population density increases, social distancing can be difficult. This may have led CDC to update recommendation about wearing face masks in public places on April 13th.
 
 # Follow Me On
 
- * www.linkedin.com/in/harshnmodi
+   * www.linkedin.com/in/harshnmodi
 
 
    

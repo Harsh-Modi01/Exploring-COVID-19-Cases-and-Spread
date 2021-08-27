@@ -9,11 +9,12 @@
   * Researchers around the world have created models to predict the trajectory of COVID-19. Models are not always perfect in making predictions, but they may be substantially useful if applied correctly. In case of COVID-19 responding to these models may be the difference between death tolls in the thousands or millions. On the basis of existing prediction models for COVID-19, CDC recommends the public to wear face masks in places with high population density because it is difficult to maintain social distancing or 6 feet distance.
 
 # Table of Content 
-    * [The Data Set](#the-data-set)
-      * [Data Selection](#data-selection)
-      * [Data Wrangling](#data-srangling)
-      * [Geographic Exceptions for COVID Cases](#geographic-exceptions-for-covid-cases)
-      * [Exclusion Criteria](#exclusion-criteria)
+    
+     * [The Data Set](#the-data-set)
+       * [Data Selection](#data-selection)
+       * [Data Wrangling](#data-srangling)
+       * [Geographic Exceptions for COVID Cases](#geographic-exceptions-for-covid-cases)
+       * [Exclusion Criteria](#exclusion-criteria)
      * [Tools Used](#tools-used)
      * [Conclusion](#conclusion)
      * [Follow Me On](#follow-me-on)

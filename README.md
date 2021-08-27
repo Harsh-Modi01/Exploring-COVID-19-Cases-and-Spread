@@ -12,7 +12,7 @@
     
      * [The Data Set](#the-data-set)
        * [Data Selection](#data-selection)
-       * [Data Wrangling](#data-srangling)
+       * [Data Wrangling](#data-wrangling)
        * [Geographic Exceptions for COVID Cases](#geographic-exceptions-for-covid-cases)
        * [Exclusion Criteria](#exclusion-criteria)
      * [Tools Used](#tools-used)

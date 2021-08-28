@@ -10,6 +10,14 @@
 
 # Table of Content 
     
+   * [The Data Set](#the-data-set)
+     * [Data Selection](#data-selection)
+     * [Data Wrangling](#data-wrangling)
+     * [Geographic Exceptions for COVID Cases](#geographic-exceptions-for-covid-cases)
+     * [Exclusion Criteria](#exclusion-criteria)
+   * [Tools Used](#tools-used)
+   * [Conculsion](#conclusion)
+   * [Follow Me On](#follow-me-on)
  
      
 # The Data Set
